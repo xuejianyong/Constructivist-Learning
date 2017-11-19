@@ -1,0 +1,4 @@
+How can we identify the end of the Learning?
+How to use algorithms to let the agent learn the environment?
+Using what method let the agent construct the knowledge of the environment.
+How can we improve the learning speed?
